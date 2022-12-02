@@ -2210,6 +2210,7 @@ textarea.form-control {
 
 .section-networks .container {
   max-width: 460px;
+  height: 200px;
 }
 
 .section-networks a {
